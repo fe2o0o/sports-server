@@ -1,0 +1,465 @@
+{
+  "Allcoches": [
+    {
+      "id": 1,
+      "name": "Pep Guardiola",
+      "category": "football",
+      "tf-sec":"Pep Guardiola's career as a player and coach",
+      "ts-sec":"Players successfully trained by Pep Guardiola",
+      "f-sec":"He was a prominent player in FC Barcelona and won many championships. After his retirement, he began his coaching career and led Barcelona to achieve many championships. Later, he coached Bayern Munich and Manchester City and also achieved success at these clubs.",
+      "s-sce":"He managed to develop many young players and turn them into stars. Some of the famous players who were trained by him include",
+      "t-sec":"Pep Guardiola has the ability to spot and develop young talent. Some famous players who were discovered by him",
+      "tt-sec":"Players discovered by Pep Guardiola",
+      "img":"assets/images/coch1.jpg",
+      "trainer":[
+        {
+          "name":"Lionel Messi",
+          "image":"assets/images/mesi.webp",
+          "club":"Paris Saint-Germain F.C."
+        },
+        {
+          "name":"Sergio Busquets",
+          "image":"assets/images/sergio.webp",
+          "club":"Barcelona"
+        },
+        {
+          "name":"Gerrard Pique",
+          "image":"assets/images/pique.jpg",
+          "club":"Barcelona."
+        }
+      ],
+      "discover":[
+        {
+          "name":"Philippe Coutinho",
+          "image":"assets/images/coutinho.jpeg",
+          "club":"Barcelona."
+        },
+        {
+          "name":"Vincius Koeman",
+          "image":"assets/images/Koeman.webp",
+          "club":"Real Madriad"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Zinedine Zidane",
+      "category": "football",
+      "tf-sec":"Zinedine Zidane's career as a player and coach",
+      "ts-sec":"Players trained by Zinedine Zidane",
+      "f-sec":"Zinedine Zidane is a former French footballer and current coach. He was born on June 23, 1972 in Marseille, France. Zidane was a prominent player for the Spanish club Real Madrid and won many trophies. He also played for the French national team and helped win the World Cup in 1998 and 2006. After retiring as a player, Zidane began his coaching career and coached Real Madrid. He led the team to achieve many championships, including three consecutive Champions League titles (2016, 2017, 2018), and two Spanish League titles (2017, 2020)",
+      "s-sce":"Zinedine Zidane succeeded in developing many young players and turning them into stars. Some of the famous players who were trained by him include",
+      "t-sec":"Yendine Zidane has the ability to discover and develop young talent. Some of the famous players who have been discovered by him include",
+      "tt-sec":"Players discovered by Zinedine Zidane",
+      "img":"assets/images/zain.jpg",
+      "trainer":[
+        {
+          "name":"Marco Asensio",
+          "image":"assets/images/marco.jpg",
+          "club":"Real Madriad"
+        },
+        {
+          "name":"Dani Carvajal",
+          "image":"assets/images/dani.jpg",
+          "club":"Real Madriad"
+        }
+      ],
+      "discover":[
+        {
+          "name":"Philippe Coutinho",
+          "image":"assets/images/coutinho.jpeg",
+          "club":"Barcelona."
+        },
+        {
+          "name":"Vincius Koeman",
+          "image":"assets/images/Koeman.webp",
+          "club":"Real Madriad"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pep Guardiola",
+      "category": "football",
+      "tf-sec":"Pep Guardiola's career as a player and coach",
+      "ts-sec":"Players successfully trained by Pep Guardiola",
+      "f-sec":"He was a prominent player in FC Barcelona and won many championships. After his retirement, he began his coaching career and led Barcelona to achieve many championships. Later, he coached Bayern Munich and Manchester City and also achieved success at these clubs.",
+      "s-sce":"He managed to develop many young players and turn them into stars. Some of the famous players who were trained by him include",
+      "t-sec":"Pep Guardiola has the ability to spot and develop young talent. Some famous players who were discovered by him",
+      "tt-sec":"Players discovered by Pep Guardiola",
+      "img":"assets/images/coch1.jpg",
+      "trainer":[
+        {
+          "name":"Lionel Messi",
+          "image":"assets/images/mesi.webp",
+          "club":"Paris Saint-Germain F.C."
+        },
+        {
+          "name":"Sergio Busquets",
+          "image":"assets/images/sergio.webp",
+          "club":"Barcelona"
+        },
+        {
+          "name":"Gerrard Pique",
+          "image":"assets/images/pique.jpg",
+          "club":"Barcelona."
+        }
+      ],
+      "discover":[
+        {
+          "name":"Philippe Coutinho",
+          "image":"assets/images/coutinho.jpeg",
+          "club":"Barcelona."
+        },
+        {
+          "name":"Vincius Koeman",
+          "image":"assets/images/Koeman.webp",
+          "club":"Real Madriad"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bob Bowman",
+      "category": "swimming",
+      "tf-sec":"Bob Bowman's career as a swimming coach",
+      "ts-sec":"Players who have been successfully coached by Bob Bowman",
+      "f-sec":"Bob Bowman is a well-known American swimming coach. He was born on August 18, 1965 in Columbus, Ohio, in the United States. Bob Bowman became known for coaching legendary Olympic swimmer Michael Phelps, who achieved numerous Olympic and world championships under his guidance. Bob Bowman is a prominent figure in the world of swimming, having led the US Swimming Team to numerous international championships..",
+      "s-sce":"Bob Bowman has coached many successful swimmers during his career. Some of the famous players who were trained by him include",
+      "t-sec":"Bob Bowman has the ability to spot and develop young talent. Some of the famous players who were discovered by him include:",
+      "tt-sec":"Players who were discovered by Bob Bowman",
+      "img":"assets/images/bob.jpg",
+      "trainer":[
+        {
+          "name":"Michael Phelps",
+          "image":"assets/images/swim1.jpg",
+          "club":"American swimming legend and record holder in many Olympic Games."
+        },
+        {
+          "name":"Alex Mitchell",
+          "image":"assets/images/swim2.webp",
+          "club":"An American swimmer who won several medals in international championships"
+        }
+      ],
+      "discover":[
+        {
+          "name":"Kayla Noe",
+          "image":"assets/images/swim3.jpg",
+          "club":"American swimmer who has achieved great success at the Olympic Games and World Championships."
+        },
+        {
+          "name":"Town Lefki",
+          "image":"assets/images/swim1.webp",
+          "club":"American swimmer who has achieved great success at the Olympic Games and World Championships"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Phil Jackson",
+      "category": "basketball",
+      "tf-sec":"Phil Jackson's Playing Career",
+      "ts-sec":"Phil Jackson's Coaching Career with the Chicago Bulls",
+      "f-sec":"Phil Jackson was born on September 17, 1945, in Deer Lodge, Montana, United States. He played college basketball at the University of North Dakota before being drafted by the New York Knicks in the 1967 NBA Draft. Jackson played as a forward and had a successful career in the NBA, primarily with the New York Knicks. He won two NBA championships with the Knicks in 1970 and 1973.",
+      "s-sce":"Phil Jackson is best known for his coaching tenure with the Chicago Bulls, where he achieved great success. From 1989 to 1998, Jackson served as the head coach of the Bulls. Under his leadership, the team won six NBA championships in the 1990s, with Michael Jordan and Scottie Pippen as the key players. This period, often referred to as the Chicago Bulls dynasty,solidified Jackson's reputation as one of the greatest coaches in NBA history.",
+      "t-sec":"Following his successful stint with the Bulls, Phil Jackson went on to coach the Los Angeles Lakers. From 1999 to 2004 and then again from 2005 to 2011, Jackson served as the head coach of the Lakers. During his time with the team, he won five NBA championships, with superstars such as Kobe Bryant and Shaquille O'Neal leading the way. Jackson's coaching philosophy, which emphasized teamwork and mindfulness, contributed to the Lakers' success during this period.",
+      "tt-sec":"Phil Jackson's Coaching Career with the Los Angeles Lakers",
+      "img":"assets/images/phil.jpg",
+      "trainer":[
+        {
+          "name":"LeBron James",
+          "image":"assets/images/basket1.jpg",
+          "club":"American Club."
+        },
+        {
+          "name":"Bradley Beal",
+          "image":"assets/images/basket2.webp",
+          "club":"American Club."
+        }
+      ],
+      "discover":[
+        {
+          "name":"LeBron James",
+          "image":"assets/images/basket1.jpg",
+          "club":"American Club."
+        },
+        {
+          "name":"Bradley Beal",
+          "image":"assets/images/basket2.webp",
+          "club":"American Club."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Liu Guoliang",
+      "category": "tennis table",
+      "tf-sec":"Phil Jackson's Playing Career",
+      "ts-sec":"Phil Jackson's Coaching Career with the Chicago Bulls",
+      "f-sec":"Phil Jackson was born on September 17, 1945, in Deer Lodge, Montana, United States. He played college basketball at the University of North Dakota before being drafted by the New York Knicks in the 1967 NBA Draft. Jackson played as a forward and had a successful career in the NBA, primarily with the New York Knicks. He won two NBA championships with the Knicks in 1970 and 1973.",
+      "s-sce":"Phil Jackson is best known for his coaching tenure with the Chicago Bulls, where he achieved great success. From 1989 to 1998, Jackson served as the head coach of the Bulls. Under his leadership, the team won six NBA championships in the 1990s, with Michael Jordan and Scottie Pippen as the key players. This period, often referred to as the Chicago Bulls dynasty,solidified Jackson's reputation as one of the greatest coaches in NBA history.",
+      "t-sec":"Following his successful stint with the Bulls, Phil Jackson went on to coach the Los Angeles Lakers. From 1999 to 2004 and then again from 2005 to 2011, Jackson served as the head coach of the Lakers. During his time with the team, he won five NBA championships, with superstars such as Kobe Bryant and Shaquille O'Neal leading the way. Jackson's coaching philosophy, which emphasized teamwork and mindfulness, contributed to the Lakers' success during this period.",
+      "tt-sec":"Phil Jackson's Coaching Career with the Los Angeles Lakers",
+      "img":"assets/images/tennis1.jpg",
+      "trainer":[
+        {
+          "name":"Ma Long",
+          "image":"assets/images/tennis2.jpg",
+          "club":"Olympian"
+        },
+        {
+          "name":"Qiu Dang",
+          "image":"assets/images/tennis3.webp",
+          "club":"Olympian"
+        }
+      ],
+      "discover":[
+        {
+          "name":"Ma Long",
+          "image":"assets/images/tennis2.jpg",
+          "club":"Olympian"
+        },
+        {
+          "name":"Qiu Dang",
+          "image":"assets/images/tennis3.webp",
+          "club":"Olympian"
+        }
+      ]
+    }
+
+  ],
+  "footballcoches":[
+      {
+      "id": 1,
+      "name": "Pep Guardiola",
+      "category": "football",
+      "tf-sec":"Pep Guardiola's career as a player and coach",
+      "ts-sec":"Players successfully trained by Pep Guardiola",
+      "f-sec":"He was a prominent player in FC Barcelona and won many championships. After his retirement, he began his coaching career and led Barcelona to achieve many championships. Later, he coached Bayern Munich and Manchester City and also achieved success at these clubs.",
+      "s-sce":"He managed to develop many young players and turn them into stars. Some of the famous players who were trained by him include",
+      "t-sec":"Pep Guardiola has the ability to spot and develop young talent. Some famous players who were discovered by him",
+      "tt-sec":"Players discovered by Pep Guardiola",
+      "img":"assets/images/coch1.jpg",
+      "trainer":[
+        {
+          "name":"Lionel Messi",
+          "image":"assets/images/mesi.webp",
+          "club":"Paris Saint-Germain F.C."
+        },
+        {
+          "name":"Sergio Busquets",
+          "image":"assets/images/sergio.webp",
+          "club":"Barcelona"
+        },
+        {
+          "name":"Gerrard Pique",
+          "image":"assets/images/pique.jpg",
+          "club":"Barcelona."
+        }
+      ],
+      "discover":[
+        {
+          "name":"Philippe Coutinho",
+          "image":"assets/images/coutinho.jpeg",
+          "club":"Barcelona."
+        },
+        {
+          "name":"Vincius Koeman",
+          "image":"assets/images/Koeman.webp",
+          "club":"Real Madriad"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Zinedine Zidane",
+      "category": "football",
+      "tf-sec":"Zinedine Zidane's career as a player and coach",
+      "ts-sec":"Players trained by Zinedine Zidane",
+      "f-sec":"Zinedine Zidane is a former French footballer and current coach. He was born on June 23, 1972 in Marseille, France. Zidane was a prominent player for the Spanish club Real Madrid and won many trophies. He also played for the French national team and helped win the World Cup in 1998 and 2006. After retiring as a player, Zidane began his coaching career and coached Real Madrid. He led the team to achieve many championships, including three consecutive Champions League titles (2016, 2017, 2018), and two Spanish League titles (2017, 2020)",
+      "s-sce":"Zinedine Zidane succeeded in developing many young players and turning them into stars. Some of the famous players who were trained by him include",
+      "t-sec":"Yendine Zidane has the ability to discover and develop young talent. Some of the famous players who have been discovered by him include",
+      "tt-sec":"Players discovered by Zinedine Zidane",
+      "img":"assets/images/zain.jpg",
+      "trainer":[
+        {
+          "name":"Marco Asensio",
+          "image":"assets/images/marco.jpg",
+          "club":"Real Madriad"
+        },
+        {
+          "name":"Dani Carvajal",
+          "image":"assets/images/dani.jpg",
+          "club":"Real Madriad"
+        }
+      ],
+      "discover":[
+        {
+          "name":"Philippe Coutinho",
+          "image":"assets/images/coutinho.jpeg",
+          "club":"Barcelona."
+        },
+        {
+          "name":"Vincius Koeman",
+          "image":"assets/images/Koeman.webp",
+          "club":"Real Madriad"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pep Guardiola",
+      "category": "football",
+      "tf-sec":"Pep Guardiola's career as a player and coach",
+      "ts-sec":"Players successfully trained by Pep Guardiola",
+      "f-sec":"He was a prominent player in FC Barcelona and won many championships. After his retirement, he began his coaching career and led Barcelona to achieve many championships. Later, he coached Bayern Munich and Manchester City and also achieved success at these clubs.",
+      "s-sce":"He managed to develop many young players and turn them into stars. Some of the famous players who were trained by him include",
+      "t-sec":"Pep Guardiola has the ability to spot and develop young talent. Some famous players who were discovered by him",
+      "tt-sec":"Players discovered by Pep Guardiola",
+      "img":"assets/images/coch1.jpg",
+      "trainer":[
+        {
+          "name":"Lionel Messi",
+          "image":"assets/images/mesi.webp",
+          "club":"Paris Saint-Germain F.C."
+        },
+        {
+          "name":"Sergio Busquets",
+          "image":"assets/images/sergio.webp",
+          "club":"Barcelona"
+        },
+        {
+          "name":"Gerrard Pique",
+          "image":"assets/images/pique.jpg",
+          "club":"Barcelona."
+        }
+      ],
+      "discover":[
+        {
+          "name":"Philippe Coutinho",
+          "image":"assets/images/coutinho.jpeg",
+          "club":"Barcelona."
+        },
+        {
+          "name":"Vincius Koeman",
+          "image":"assets/images/Koeman.webp",
+          "club":"Real Madriad"
+        }
+      ]
+    }
+  ],
+  "swimmingcoches":[
+      {
+      "id": 4,
+      "name": "Bob Bowman",
+      "category": "swimming",
+      "tf-sec":"Bob Bowman's career as a swimming coach",
+      "ts-sec":"Players who have been successfully coached by Bob Bowman",
+      "f-sec":"Bob Bowman is a well-known American swimming coach. He was born on August 18, 1965 in Columbus, Ohio, in the United States. Bob Bowman became known for coaching legendary Olympic swimmer Michael Phelps, who achieved numerous Olympic and world championships under his guidance. Bob Bowman is a prominent figure in the world of swimming, having led the US Swimming Team to numerous international championships..",
+      "s-sce":"Bob Bowman has coached many successful swimmers during his career. Some of the famous players who were trained by him include",
+      "t-sec":"Bob Bowman has the ability to spot and develop young talent. Some of the famous players who were discovered by him include:",
+      "tt-sec":"Players who were discovered by Bob Bowman",
+      "img":"assets/images/bob.jpg",
+      "trainer":[
+        {
+          "name":"Michael Phelps",
+          "image":"assets/images/swim1.jpg",
+          "club":"American swimming legend and record holder in many Olympic Games."
+        },
+        {
+          "name":"Alex Mitchell",
+          "image":"assets/images/swim2.webp",
+          "club":"An American swimmer who won several medals in international championships"
+        }
+      ],
+      "discover":[
+        {
+          "name":"Kayla Noe",
+          "image":"assets/images/swim3.jpg",
+          "club":"American swimmer who has achieved great success at the Olympic Games and World Championships."
+        },
+        {
+          "name":"Town Lefki",
+          "image":"assets/images/swim1.webp",
+          "club":"American swimmer who has achieved great success at the Olympic Games and World Championships"
+        }
+      ]
+    }
+  ],
+  "basketballcoches":[
+    {
+      "id": 5,
+      "name": "Phil Jackson",
+      "category": "basketball",
+      "tf-sec":"Phil Jackson's Playing Career",
+      "ts-sec":"Phil Jackson's Coaching Career with the Chicago Bulls",
+      "f-sec":"Phil Jackson was born on September 17, 1945, in Deer Lodge, Montana, United States. He played college basketball at the University of North Dakota before being drafted by the New York Knicks in the 1967 NBA Draft. Jackson played as a forward and had a successful career in the NBA, primarily with the New York Knicks. He won two NBA championships with the Knicks in 1970 and 1973.",
+      "s-sce":"Phil Jackson is best known for his coaching tenure with the Chicago Bulls, where he achieved great success. From 1989 to 1998, Jackson served as the head coach of the Bulls. Under his leadership, the team won six NBA championships in the 1990s, with Michael Jordan and Scottie Pippen as the key players. This period, often referred to as the Chicago Bulls dynasty,solidified Jackson's reputation as one of the greatest coaches in NBA history.",
+      "t-sec":"Following his successful stint with the Bulls, Phil Jackson went on to coach the Los Angeles Lakers. From 1999 to 2004 and then again from 2005 to 2011, Jackson served as the head coach of the Lakers. During his time with the team, he won five NBA championships, with superstars such as Kobe Bryant and Shaquille O'Neal leading the way. Jackson's coaching philosophy, which emphasized teamwork and mindfulness, contributed to the Lakers' success during this period.",
+      "tt-sec":"Phil Jackson's Coaching Career with the Los Angeles Lakers",
+      "img":"assets/images/bob.jpg",
+      "trainer":[
+        {
+          "name":"LeBron James",
+          "image":"assets/images/basket1.jpg",
+          "club":"American Club."
+        },
+        {
+          "name":"Bradley Beal",
+          "image":"assets/images/basket2.webp",
+          "club":"American Club."
+        }
+      ],
+      "discover":[
+        {
+          "name":"LeBron James",
+          "image":"assets/images/basket1.jpg",
+          "club":"American Club."
+        },
+        {
+          "name":"Bradley Beal",
+          "image":"assets/images/basket2.webp",
+          "club":"American Club."
+        }
+      ]
+    }
+  ],
+  "tenniscoches":[
+    {
+      "id": 6,
+      "name": "Liu Guoliang",
+      "category": "tennis table",
+      "tf-sec":"Phil Jackson's Playing Career",
+      "ts-sec":"Phil Jackson's Coaching Career with the Chicago Bulls",
+      "f-sec":"Phil Jackson was born on September 17, 1945, in Deer Lodge, Montana, United States. He played college basketball at the University of North Dakota before being drafted by the New York Knicks in the 1967 NBA Draft. Jackson played as a forward and had a successful career in the NBA, primarily with the New York Knicks. He won two NBA championships with the Knicks in 1970 and 1973.",
+      "s-sce":"Phil Jackson is best known for his coaching tenure with the Chicago Bulls, where he achieved great success. From 1989 to 1998, Jackson served as the head coach of the Bulls. Under his leadership, the team won six NBA championships in the 1990s, with Michael Jordan and Scottie Pippen as the key players. This period, often referred to as the Chicago Bulls dynasty,solidified Jackson's reputation as one of the greatest coaches in NBA history.",
+      "t-sec":"Following his successful stint with the Bulls, Phil Jackson went on to coach the Los Angeles Lakers. From 1999 to 2004 and then again from 2005 to 2011, Jackson served as the head coach of the Lakers. During his time with the team, he won five NBA championships, with superstars such as Kobe Bryant and Shaquille O'Neal leading the way. Jackson's coaching philosophy, which emphasized teamwork and mindfulness, contributed to the Lakers' success during this period.",
+      "tt-sec":"Phil Jackson's Coaching Career with the Los Angeles Lakers",
+      "img":"assets/images/tennis1.jpg",
+      "trainer":[
+        {
+          "name":"Ma Long",
+          "image":"assets/images/tennis2.jpg",
+          "club":"Olympian"
+        },
+        {
+          "name":"Qiu Dang",
+          "image":"assets/images/tennis3.webp",
+          "club":"Olympian"
+        }
+      ],
+      "discover":[
+        {
+          "name":"Ma Long",
+          "image":"assets/images/tennis2.jpg",
+          "club":"Olympian"
+        },
+        {
+          "name":"Qiu Dang",
+          "image":"assets/images/tennis3.webp",
+          "club":"Olympian"
+        }
+      ]
+    }
+  ]
+}
