@@ -1,4 +1,13 @@
 {
+  "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahimmohamed@gmail.com",
+      "phone": "01284954021",
+      "password": "12345"
+    }
+  ],
   "Allcoches": [
     {
       "id": 1,
